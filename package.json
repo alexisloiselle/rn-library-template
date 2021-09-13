@@ -1,0 +1,8 @@
+{
+  "name": "gmap-template",
+  "version": "0.0.1",
+  "description": "GMAP Library Template",
+  "repository": "git@github.com:alexisloiselle/gmap-template.git",
+  "author": "Alexis Loiselle <alexis@t-b.ca>",
+  "license": "MIT"
+}

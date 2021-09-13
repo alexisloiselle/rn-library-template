@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": { "src/*": ["src/*"] },
+    "esModuleInterop": true,
+    "jsx": "react-native",
+    "lib": ["esnext"],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "esnext",
+    "declaration": true,
+    "declarationMap": false,
+    "outDir": "./lib"
+  },
+  "include": ["src", "__tests__"],
+  "exclude": ["node_modules", "sample"]
+}
