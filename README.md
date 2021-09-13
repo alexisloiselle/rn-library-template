@@ -6,7 +6,7 @@ You can follow [this guide](https://reactnative.dev/docs/environment-setup) to s
 
 Just make sure that you initialize your project like so:
 ```bash
-$ npx react-native init MyAwesomeProject --template https://github.com/alexisloiselle/gmap-template.git
+$ npx react-native init MyAwesomeProject --template https://github.com/alexisloiselle/rn-library-template.git
 ```
 
 ## For you to do
