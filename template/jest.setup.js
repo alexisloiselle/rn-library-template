@@ -19,8 +19,4 @@ jest.mock(
   'react-native-localization',
   () => jest.requireActual('./__mocks__/react-native-localization').default
 )
-jest.mock(
-  'react-native-geolocation-service',
-  () =>
-    jest.requireActual('./__mocks__/react-native-geolocation-service').default
-)
+
