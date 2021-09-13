@@ -25,6 +25,7 @@
     "moment": "^2.29.1",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-localization": "^2.1.7",
+    "react-native-permissions": "^3.0.5",
     "react-native-safe-area-context": "^3.3.0",
     "react-native-screens": "^3.5.0",
     "yup": "^0.32.9"

@@ -5,6 +5,8 @@ platform :ios, '10.0'
 
 target 'HelloWorldSample' do
   
+  permissions_path = '../node_modules/react-native-permissions/ios'
+  
   config = use_native_modules!
 
   use_react_native!(
